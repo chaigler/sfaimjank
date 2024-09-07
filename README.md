@@ -48,3 +48,6 @@ Return
 Step 1: Press Q to toggle the script on/off in game. Toggle this off when you are driving or piloting to avoid issues with swapping to third/first person while firing weapons.
 
 Step 2: When toggled on, hold right mouse button to ADS - AutoHotKey will send "numpad1" & "numpad2" keys on mouse down/mouse up which will be intercepted by Hotkeys mod and call Game.ForceFirstPerson or Game.ForceThirdPerson accordingly.
+
+# Notes
+Keybinds (q, numpad1, numpad2) can all be changed to whatever you'd like. Just ensure the AHK script matches the Hotkeys.ini file.
