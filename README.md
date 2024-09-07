@@ -9,7 +9,7 @@ Step 2: In Hotkeys.ini file add these keybinds to the [Hotkeys] section:
 * NumPad2=cgf "Game.ForceThirdPerson"
 
 # AutoHotKey
-Step 1: Install AutoHotKey and run (or compile to exe) this script (note: this was written for AHK v1.x - AHK v2.x has syntax changes and won't run/compile this)
+Step 1: Install AutoHotKey and run (or compile to exe) this script (note: this was written for AHK v1.x - AHK v2.x uses different syntax and won't run/compile this)
 ```
 #SingleInstance Force
 #Persistent
