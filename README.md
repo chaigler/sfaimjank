@@ -53,3 +53,5 @@ Step 2: When toggled on, hold right mouse button to ADS - AutoHotKey will send "
 Keybinds (q, numpad1, numpad2) can all be changed to whatever you'd like. Just ensure the AHK script matches the Hotkeys.ini file.
 
 This will break the ship (and possibly REV-8?) camera if you forget to toggle this off and click the right mouse button while flying/driving. If that happens, just exit the pilot's chair - camera will reset when the player stands up.
+
+Toggle this OFF until you finish character creation to avoid some weirdness.
