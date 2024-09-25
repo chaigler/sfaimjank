@@ -1,3 +1,6 @@
+# OUTDATED / NO LONGER NEEDED
+Please use this instead: https://www.nexusmods.com/starfield/mods/11706
+
 # sfaimjank
 Janky workaround to allow third to first person aiming in Starfield via AutoHotKey script and Hotkeys mod until somebody updates https://www.nexusmods.com/starfield/mods/1302.
 
